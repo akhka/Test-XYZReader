@@ -6,7 +6,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="?colorPrimary"
     android:fitsSystemWindows="true"
-    tools:context=".MainActivity">
+    tools:context=".ui.ArticleListActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appBarLayout"
